@@ -1,2 +1,2 @@
 # jenkins
-конфигурация Jenkins
+Jenkins configuration
